@@ -1,0 +1,30 @@
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.all-Content{
+  height: 100vh;
+  width: 100vw;
+  border: 4px red solid;
+  display: flex;
+  padding-left: 11%;
+  padding-top: 8%;
+}
+
+.Boxes{
+  height: 80vh;
+  width: 30vw;
+  border: 2px white;
+  background-color: white;
+  justify-content: space-evenly;
+  margin-left: 10px;
+}

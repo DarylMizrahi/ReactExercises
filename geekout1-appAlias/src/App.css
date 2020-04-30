@@ -1,0 +1,86 @@
+.BoxContent{
+  width: 50vw;
+  height: 50vh;
+  background-color: #20E1FF;
+  display: flex;
+}
+
+.first-content{
+  width: 25vw;
+  height: 50vh;
+  text-align: center;
+  display: inline-block;
+}
+
+.sun{
+  height: 70%;
+  margin-top: 10%;
+}
+
+.second-content{
+  display: inline-block;
+  text-align: right;
+  padding-left: 20%;
+  margin-right: 20%;
+  font-size: 25px;
+  margin-top: 100px;
+
+}
+
+.Country{
+  color: white;
+}
+
+.Temperature{
+  color: White;
+  font-size: 18px;
+
+}
+
+
+.BoxContent2{
+  background-color: #1A2430;
+  display: flex;
+  width: 50vw;
+
+}
+
+.Dates{
+  height: 50vh;
+  width: 7vw;
+  /*background-color: #1A2430;*/
+  font-size: 30px;
+  color: white;
+  text-align: left;
+  margin-left: 30px;
+
+}
+
+.LogoTemp{
+  height: 26%;
+  padding: 25%;
+}
+
+.status{
+  color: white;
+  padding: 10%;
+  font-size: 20px;
+  height: 15%;
+
+}
+
+.extra-info{
+  display: flex;
+  color: white;
+  font-size: 20px;
+  height: 20%;
+}
+
+.logo{
+  display: flex;
+  margin-left: 20%;
+}
+
+.text{
+  padding: 50px;
+}
